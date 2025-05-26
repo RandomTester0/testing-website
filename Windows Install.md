@@ -169,11 +169,12 @@ Click <strong>Download Now</strong> under "Create Windows 11 Installation Media.
 
 3. **Install Device Drivers**  
    After Windows is fully set up, it’s a good idea to install any missing drivers (especially graphics, sound, and network drivers). You can download these from the manufacturer's website or use Windows Update to automatically detect and install drivers.
+   > You CAN get these from OEM Utility Software such as MSI Center or Lenovo Vantage, but I would stay away from these, personally, to reduce bloat.
 
-4. **Restore Your Files**  
+5. **Restore Your Files**  
    If you backed up your files, now is the time to restore them to your new Windows installation.
 
-5. **[Optional] Check out some programs!**
+6. **[Optional] Check out some programs!**
    Looking for programs to install on your fresh copy of Windows. Check out my favourite programs [here](https://randomtester0.github.io/testing-website/software-list.html)
 ---
 
