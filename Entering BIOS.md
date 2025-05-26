@@ -1,7 +1,6 @@
 ---
 title: Entering BIOS
-parent: Guides
-nav_order: 2
+nav_order: 3
 ---
 
 # 🖥️ How to Enter UEFI/BIOS: A Step-by-Step Guide

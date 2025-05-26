@@ -1,7 +1,6 @@
 ---
-title: Windows Install
-parent: Guides
-nav_order: 3
+title: Windows Install Guide
+nav_order: 2
 ---
 
 
