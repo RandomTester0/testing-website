@@ -1,7 +1,7 @@
 title: All-In-One Website | by Capp
 description: Welcome to my Website!
-theme:
-  name: just-the-docs
+theme: just-the docs
+just_the_docs:
   dark_mode: true
   dark_mode_default: true
 
