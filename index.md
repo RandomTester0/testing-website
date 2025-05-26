@@ -6,10 +6,10 @@ nav_order: 1
 
 # Welcome to My Website
 
-This site is a work in progress, built with the [Just the Docs](https://just-the-docs.com/) theme. I'm using it as a central place to organize and share my personal lists, guides, and other resources.
+This is my personal website, filled with guides, lists and more - A repository of information which I hope will be useful to others.
 
-🚧 **Under Construction**  
-The current version is a basic foundation — there’s much more to come! Over time, this site will evolve into a more comprehensive and organized collection of useful content.
+You may have noticed it's a bit barebones right now; that's true, and why I'm regulary updating it, hopefully through your feedback!
+
 
 ## What to Expect
 
@@ -19,4 +19,4 @@ Here’s a preview of what I plan to include:
 - 🔗 Useful resources and programs
 - ❓ And perhaps more in the future
 
-Stay tuned!
+To make suggestions, please submit an issue at this [repo](https://github.com/RandomTester0/testing-website). Thanks in advance!
