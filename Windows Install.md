@@ -69,7 +69,7 @@ Click <strong>Download Now</strong> under "Create Windows 11 Installation Media.
 6. **Wait for the Creation Process to Finish**  
    The Media Creation Tool will download Windows 11 and create a bootable USB drive. This may take some time, depending on your internet speed.
 
-   > 💡 **Hint:** While you're waiting for the Media Creatioon Tool to finish, it's a good idea to also copy your PC's network drivers onto the same drive. This can help avoid internet connectivity issues during or after installation.
+   > 💡 **Hint:** While you're waiting for the Media Creatioon Tool to finish, it's a good idea to also copy your PC's network drivers onto the same drive. This can reduce hassle if your wifi doesn't work after installation. For more info, see [here](#extra-no-wifi).
 
 ---
 
@@ -173,6 +173,8 @@ Click <strong>Download Now</strong> under "Create Windows 11 Installation Media.
 4. **Restore Your Files**  
    If you backed up your files, now is the time to restore them to your new Windows installation.
 
+5. **[Optional] Check out some programs!**
+   Looking for programs to install on your fresh copy of Windows. Check out my favourite programs [here](https://randomtester0.github.io/testing-website/software-list.html)
 ---
 
 By following these steps, you should have a clean installation of Windows 11 on your computer. If you run into any issues, feel free to ask for further assistance!
