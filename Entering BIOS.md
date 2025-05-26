@@ -7,7 +7,7 @@ nav_order: 3
 # 🖥️ How to Enter UEFI/BIOS: A Step-by-Step Guide
 
 Accessing the UEFI/BIOS is useful for configuring system settings like boot order, enabling virtualization, or updating firmware. Below are two common ways to enter the UEFI/BIOS.
-> 💡 **Quick Tip:** If your BIOS seems to be corrupted and/or causing issues, try resetting the CMOS battery. This will restore BIOS settings to factory defaults, all prior data will be lost. You can find that guide [here](https://github.com/RandomTester0/guides/blob/main/CMOS%20Reset.md)
+> 💡 **Quick Tip:** If your BIOS seems to be corrupted and/or causing issues, try resetting the CMOS battery. This will restore BIOS settings to factory defaults, all prior data will be lost. You can find that guide [here](https://randomtester0.github.io/testing-website/CMOS%20Reset.html)
 
 ---
 
@@ -18,18 +18,25 @@ Accessing the UEFI/BIOS is useful for configuring system settings like boot orde
 2. Power it back on.
 3. Immediately and repeatedly **press the BIOS key** (every second or so) until the BIOS screen appears.
 
-### Common BIOS Keys:
-| Manufacturer | BIOS Key      |
-|--------------|---------------|
-| Dell         | F2            |
-| HP           | ESC or F10    |
-| Lenovo       | F1 or F2      |
-| ASUS         | F2 or DEL     |
-| Acer         | F2 or DEL     |
-| MSI          | DEL           |
-| Toshiba      | F2 or ESC     |
+<h3>Common BIOS Keys</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Manufacturer</th>
+      <th>BIOS Key</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Dell</td><td>F2</td></tr>
+    <tr><td>HP</td><td>ESC or F10</td></tr>
+    <tr><td>Lenovo</td><td>F1 or F2</td></tr>
+    <tr><td>ASUS</td><td>F2 or DEL</td></tr>
+    <tr><td>Acer</td><td>F2 or DEL</td></tr>
+    <tr><td>MSI</td><td>DEL</td></tr>
+    <tr><td>Toshiba</td><td>F2 or ESC</td></tr>
+  </tbody>
+</table>
 
----
 
 ## 🪟 Option 2: Use Advanced Startup in Windows
 
