@@ -69,6 +69,8 @@ Click <strong>Download Now</strong> under "Create Windows 11 Installation Media.
 6. **Wait for the Creation Process to Finish**  
    The Media Creation Tool will download Windows 11 and create a bootable USB drive. This may take some time, depending on your internet speed.
 
+   > 💡 **Hint:** While you're waiting for the Media Creatioon Tool to finish, it's a good idea to also copy your PC's network drivers onto the same drive. This can help avoid internet connectivity issues during or after installation.
+
 ---
 
 ## Step 2: Boot from the USB Drive
