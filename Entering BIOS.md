@@ -1,5 +1,6 @@
 ---
 title: Entering BIOS
+layout: home
 nav_order: 3
 ---
 

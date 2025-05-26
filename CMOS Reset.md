@@ -1,5 +1,6 @@
 ---
 title: CMOS Reset
+layout: home
 nav_order: 4
 ---
 
