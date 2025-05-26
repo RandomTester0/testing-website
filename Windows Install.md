@@ -116,7 +116,7 @@ Click <strong>Download Now</strong> under "Create Windows 11 Installation Media.
 ## [Optional] SSD Not Showing Up?
 
 > ⚠️ **Important Alert:**  
-> If, immediately after booting the Windows 11 installer for version 24H2, your SSD or storage drives do **not** show up, this is a known Microsoft error specific to 24H2.  
+> If, **immediately** after booting the Windows 11 installer for version 24H2, your SSD or storage drives do **not** show up, this is a known Microsoft error specific to 24H2.  
 >  
 > This alert only applies if the lack of detected drives happens right away when the installer starts. If the drives fail to show up later in the process (for example, after clicking "Next" a few times), this is likely a different issue.  
 >  
