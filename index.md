@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Welcome to My GitHub Pages Site
+# Welcome to My Website
 
 This site is a work in progress, built with the [Just the Docs](https://just-the-docs.com/) theme. I'm using it as a central place to organize and share my personal lists, guides, and other resources.
 
