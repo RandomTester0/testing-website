@@ -8,6 +8,8 @@ nav_order: 5
 
 A collection of programs I usually install when fresh installing an OS. Feel free to suggest any worthy programmes!
 
+> Where there are two or more programs that are for the same purpose, a tick (✔️) will signify my preference. However, all options here are great!
+
 ---
 
 ## Table of Contents
@@ -26,7 +28,7 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 
 ## 🗜️ Compression Tools
 
-- [7-Zip](https://www.7-zip.org/) – Open-source compression utility.
+- [✔️ 7-Zip](https://www.7-zip.org/) – Open-source compression utility.
 - [NanaZip](https://github.com/M2Team/NanaZip) – A modern fork of 7-Zip with closer feel of Windows Explorer.
 
 ---
@@ -37,17 +39,16 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 - [WizTree](https://diskanalyzer.com/) – Visualize disk usage; faster than WinDirStat.
 - [Everything](https://www.voidtools.com/) – A fast file search tool for Windows that indexes your hard drives and enables instant file searches.
 - [File Converter](https://file-converter.io/) – An online service to quickly convert files between different formats.
-- [JDownloader](https://jdownloader.org/jdownloader2) – Open-source download manager.
 
 ---
 
 ## 🌐 Internet
 
+- [✔️ LibreWolf](https://librewolf.net/) – Firefox fork focused on privacy.
 - [Firefox](https://www.mozilla.org/firefox/) – Open-source web browser.
-- [LibreWolf](https://librewolf.net/) – Firefox fork focused on privacy.
 - [uBlock Origin](https://github.com/gorhill/uBlock#installation) – Efficient ad and content blocker. *(For base Firefox, consider adding [this filter list](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) to enhance link shortener detection.)*
 - [BetterBird](https://betterbird.eu/) – A privacy-focused, enhanced fork of Thunderbird email client.
-- [JDownloader](https://jdownloader.org/jdownloader2) – Open-source download manager.
+- [✔️ JDownloader](https://jdownloader.org/jdownloader2) – Open-source download manager.
 - [AB Download Manager](https://abdownloadmanager.com/) - Another download manager, this one has browser integration.
 
 ---
@@ -62,8 +63,8 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 
 ## 🎥 Media & Multimedia
 
-- [VLC Media Player](https://www.videolan.org/vlc/) – A versatile media player that plays almost every type of media file.
-- [MPC-HC](https://github.com/clsid2/mpc-hc/) – A lightweight, open-source media player for Windows.
+- [✔️ VLC Media Player](https://www.videolan.org/vlc/) – A versatile media player that plays almost every type of media file.
+- [MPC-HC](https://github.com/clsid2/mpc-hc/) – A more lightweight, open-source media player for Windows.
 - [FlameShot](https://flameshot.org/) – A powerful, customizable screenshot tool.
 - [Tenacity](https://tenacityaudio.org/) – A free, open-source, and community-driven fork of Audacity for audio editing.
 - [Foobar2000](https://www.foobar2000.org/) - A great open-source audio player.
@@ -89,7 +90,7 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 ## 🔐 Privacy & Alternatives
 
 - [Proton Suite](https://proton.me/) – Alternatives to Google: Mail, VPN, Password Manager, Cloud Storage, and more.
-- [DuckDuckGo](https://duckduckgo.com/) – Privacy-first search engine.
+- [✔️ DuckDuckGo](https://duckduckgo.com/) – Privacy-first search engine.
 - [SearX](https://searx.space/) – Meta search engine that doesn’t track you.
 
 ---
