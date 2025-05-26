@@ -1,5 +1,6 @@
 title: All-In-One Website | by Capp
 description: This is where I hope to rework all my existing repos to
 theme: just-the-docs
-
+stylesheets:
+  - "/assets/css/dark-mode.css"
 url: https://RandomTester0.github.io/testing-website
