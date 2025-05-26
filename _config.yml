@@ -3,7 +3,3 @@ description: This is where I hope to rework all my existing repos to
 theme: just-the-docs
 
 url: https://RandomTester0.github.io/testing-website
-
-just_the_docs:
-  dark_mode: true
-  dark_mode_default: true
