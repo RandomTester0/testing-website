@@ -10,4 +10,4 @@ In the future, the website will contain all my lists, guides and more.
 
 This is just a test version, more coming soon!
 
-devcode: 0001
+devcode: 0002

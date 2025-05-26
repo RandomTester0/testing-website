@@ -39,8 +39,11 @@ This guide walks you through the process of (re)installing Windows 11 on your co
 <tr>
 <td>
 
-Go to the official [Microsoft Download Page for Windows 11](https://www.microsoft.com/en-gb/software-download/windows11/).  
-Click **Download Now** under "Create Windows 11 Installation Media."
+Go to the official  
+<a href="https://www.microsoft.com/en-gb/software-download/windows11/" target="_blank">
+Microsoft Download Page for Windows 11
+</a>.  
+Click <strong>Download Now</strong> under "Create Windows 11 Installation Media."
 
 </td>
 <td>
