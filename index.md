@@ -6,7 +6,7 @@ nav_order: 1
 
 # Welcome to My Website
 
-This is my personal website, filled with guides, lists and more - A repository of information which I hope will be useful to others.
+This is my personal website, filled with guides, lists and more: A repository of information which I hope will be useful to others.
 
 You may have noticed it's a bit barebones right now; that's true, and why I'm regulary updating it, hopefully through your feedback!
 
