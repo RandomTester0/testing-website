@@ -1,7 +1,7 @@
 ---
 title: Software List
 layout: page
-nav_order: 6
+nav_order: 3
 ---
 
 # 🛠️ My Software & Tools Resource List

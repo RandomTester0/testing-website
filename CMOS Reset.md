@@ -1,7 +1,8 @@
 ---
 title: CMOS Reset
 layout: page
-nav_order: 4
+parent: Guides
+nav_order: 3
 ---
 
 

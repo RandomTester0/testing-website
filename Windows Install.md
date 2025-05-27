@@ -1,7 +1,8 @@
 ---
 title: Windows Install Guide
 layout: page
-nav_order: 2
+parent: Guides
+nav_order: 1
 ---
 
 

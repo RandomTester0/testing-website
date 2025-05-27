@@ -1,7 +1,8 @@
 ---
 title: Fix GPU Drivers
 layout: page
-nav_order: 5
+parent: Guides
+nav_order: 4
 ---
 
 # 🎮 Quick Guide: How to Fix GPU Driver Issues
