@@ -17,7 +17,7 @@ Reinstalling your GPU drivers properly can fix crashes, black screens, performan
 
 2. **Download the latest driver** for your GPU from the official page:
    - [🔗 NVIDIA](https://www.nvidia.com/Download/index.aspx)  
-     > 💡 *Alternatively, NVIDIA users can use [**NVCleanstall**](https://www.techpowerup.com/nvcleanstall/) for a cleaner, debloated install.*
+     > 💡 *Alternatively, NVIDIA users can use [**NVCleanstall**](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) for a cleaner, debloated install.*
    - [🔗 AMD](https://www.amd.com/en/support)
    - [🔗 Intel](https://www.intel.com/content/www/us/en/download-center/home.html)
 
