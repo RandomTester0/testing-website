@@ -5,7 +5,9 @@ parent: Guides
 nav_order: 6
 ---
 
-⚠️ **You may have seen a bunch of information on YouTube and elsewhere about how to 'make Windows faster'. Unfortunately, most of these solutions, such as disabling Windows Defender, messing with Windows services, uninstalling system components, and running 'optimisation' tools, are plain awful.** Here are some basic tricks to keep your Windows in good condition.
+> ⚠️ **You may have seen a bunch of information on YouTube and elsewhere about how to 'make Windows faster'. Unfortunately, most of these solutions, such as disabling Windows Defender, messing with Windows services, uninstalling system components, and running 'optimisation' tools, are plain awful.** Here are some basic tricks to keep your Windows in good condition.
+
+# 🔥 Simple Tricks to Improve Performance
 
 ## 1. Delete unused apps
 
