@@ -1,6 +1,6 @@
 ---
 title: Software List
-layout: home
+layout: page
 nav_order: 5
 ---
 

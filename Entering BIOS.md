@@ -1,6 +1,6 @@
 ---
 title: Entering BIOS
-layout: home
+layout: page
 nav_order: 3
 ---
 

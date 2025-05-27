@@ -1,6 +1,6 @@
 ---
 title: Windows Install Guide
-layout: home
+layout: page
 nav_order: 2
 ---
 
