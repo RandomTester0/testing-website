@@ -31,7 +31,7 @@ Reinstalling your GPU drivers properly can fix crashes, black screens, performan
 To safely remove your GPU drivers, you need to boot Windows into **Safe Mode**:
 
 1. Click the **Start Menu**, then the **Power icon**.
-2. **Hold the Shift key** and **click Restart** (keep holding Shift until the blue screen appears).
+2. **Hold the Shift key** and **click Restart** (keep holding Shift until you can see the "Please Wait" dialogue instead of "Restarting").
 3. Select:
    - `Troubleshoot`
    - `Advanced Options`

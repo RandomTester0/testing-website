@@ -38,10 +38,11 @@ Accessing the UEFI/BIOS is useful for configuring system settings like boot orde
   </tbody>
 </table>
 
+You should enter the BIOS now. This method should work for every computer.
 
 ## 🪟 Option 2: Use Advanced Startup in Windows
 
-If your PC boots too quickly or you prefer not to use the BIOS key, you can access the UEFI/BIOS through Windows itself.
+If your PC boots too quickly or you prefer not to use the BIOS key, you can access the UEFI through Windows itself.
 
 ### Method 1: Shift + Restart
 1. Hold down the **Shift** key on your keyboard.
@@ -55,6 +56,4 @@ If your PC boots too quickly or you prefer not to use the BIOS key, you can acce
 3. Under *Advanced startup*, click **Restart now**.
 4. On the blue screen that appears, choose:
    - **Troubleshoot** → **Advanced options** → **UEFI Firmware Settings** → **Restart**.
-
-> 📝 Note: These methods only work on systems with UEFI firmware.
 

@@ -1,5 +1,5 @@
 ---
-title: CMOS Reset
+title: Fix BIOS Corruption / Reset CMOS
 layout: page
 parent: Guides
 nav_order: 3

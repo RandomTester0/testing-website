@@ -66,4 +66,4 @@ Clean installing Windows will remove all bloatware on the system, making it much
 
 ---
 
-By following these basic steps, you can significantly improve your system’s performance without resorting to risky tweaks or third-party "optimization" tools.
+By following these basic steps, you may be able to make improvements your system’s performance without resorting to risky tweaks or third-party "optimization" tools.

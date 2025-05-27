@@ -119,11 +119,12 @@ Click <strong>Download Now</strong> under "Create Windows 11 Installation Media.
 ## [Optional] SSD Not Showing Up?
 
 > ⚠️ **Important Alert:**  
-> If, **immediately** after booting the Windows 11 installer for version 24H2, your SSD or storage drives do **not** show up, this is a known Microsoft error specific to 24H2.  
+> If, **immediately** after booting the Windows 11 installer for version **24H2** (currently newest), a screen appears where your SSD or storage drives do not show up, this is a known Microsoft error specific to 24H2.  
 >  
-> This alert only applies if the lack of detected drives happens right away when the installer starts. If the drives fail to show up later in the process (for example, after clicking "Next" a few times), this is likely a different issue.  
->  
-> To fix this, you will need to download and use the older Windows 11 23H2 installation media, which does not have this problem and should detect your drives correctly. (It might be possible to get around this by placing the 24H2 install.wim into the 23H2 installer, this hasn't been fully tested though, so be warned!)
+> To fix this, you will need to download and use the older Windows 11 23H2 installation media, which does not have this problem and should detect your drives correctly. (It should be possible to get around this by placing the 24H2 install.wim into the 23H2 installer. This would skip installing an older version of Windows only to upgrade.)
+>
+> This alert only applies if the lack of detected drives happens right away when the installer starts. If the drives fail to show up later in the process (for example, after clicking "Next" a few times), this is likely a different issue, and you should try following the following instructions.
+
 
 
 1. **Install Chipset Drivers**  
@@ -176,16 +177,17 @@ Click <strong>Download Now</strong> under "Create Windows 11 Installation Media.
    If you backed up your files, now is the time to restore them to your new Windows installation.
 
 6. **[Optional] Check out some programs!**
-   Looking for programs to install on your fresh copy of Windows. Check out my favourite programs [here](https://randomtester0.github.io/testing-website/software-list.html)
+   Looking for programs to install on your fresh copy of Windows. Check out my favourite programs [here](https://randomtester0.github.io/testing-website/software-list.html) I may publish a commans/script later to download my favourite programs automatically, so stay tuned!
 ---
 
-By following these steps, you should have a clean installation of Windows 11 on your computer. If you run into any issues, feel free to ask for further assistance!
+By following these steps, you should have a clean installation of Windows 11 on your computer. If you run into any issues, feel free to ask for further assistance! 
 
 ---
 
 ### Extra: No WIFI?
 
-If you don’t see any Wi-Fi networks during or after setup, it usually means the Wi-Fi driver is missing. Here’s how to install it using another computer and a USB drive:
+If you don’t see any Wi-Fi networks during or after setup, it usually means the Wi-Fi driver is missing. If you installed it before as recommend it, simply double-click the installer and follow the instructions. If you didn't, here’s how to install it using another computer and a USB drive:
+
 
 1. **Find Your Motherboard or Laptop Model**  
    Locate your motherboard or laptop model number. You can usually find this on a label on your device or in the documentation.
