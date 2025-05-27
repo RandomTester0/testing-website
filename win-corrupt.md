@@ -42,30 +42,27 @@ If the previous steps did not fix the corruption, proceed with one of the follow
 
 1. Press `Windows + I` to open **Settings**.
 2. Go to **System** > **Recovery**.
-3. Under the **Advanced Startup** section, click **Restart now**.
-4. When your PC restarts, select **Troubleshoot** > **Advanced options** > **Start-up Repair**.
-5. In the **Advanced Startup** menu, there should be an option labeled **Fix problems using Windows Update**, which will automatically check for any required repairs, reinstalling the Windows files while keeping your files and apps intact.
+3. In this page there should be an option labeled **Fix problems using Windows Update**, which will download a "repair version" of Windows, reinstalling the Windows files while keeping your files and apps intact.
 6. Follow the on-screen instructions to complete the process.
 
-### Option 2: In-Place Repair Upgrade Using the ISO File
+### Option 2: In-Place Repair Upgrade Using the ISO File (Windows 10+)
 
 1. **Check Your Current Windows Version**:
 - Press `Windows + R`, type `winver`, and press Enter.
-- Note your Windows version (e.g., 22H2 or 21H1) and build number.
+- Note your Windows version (e.g., 22H2 or 21H1).
 
-2. Download the Windows ISO using the [Microsoft Media Creation Tool](https://www.microsoft.com/software-download/windows10) or [Windows 11 download page](https://www.microsoft.com/software-download/windows11).
+2. Download the Windows ISO using the [Windows 10](https://www.microsoft.com/software-download/windows10) or [Windows 11 download page](https://www.microsoft.com/software-download/windows11).
 
 3. **Do NOT Burn the ISO to a Disk**:
 - After downloading the ISO, **DO NOT burn it** to a USB or DVD.
 - Simply **mount the ISO** by double-clicking it or right-clicking and selecting **Mount**.
 
 4. **Run `setup.exe` from the Mounted ISO**:
-- In the mounted ISO folder, double-click `setup.exe` to begin the upgrade process.
-- Select the option to upgrade to the **same version of Windows** you currently have (check your version using `winver`).
+- In the mounted ISO folder, double-click `setup.exe` to begin the upgrade process..
 - Follow the on-screen instructions to complete the repair upgrade process.
 - Your files and apps will remain intact.
 
-5. Once the upgrade is finished, **restart your computer**.
+5. Your computer will now be 'upgraded' to the same or newer version of windows you were using, hopefully fixing the previously proken components.
 
 ---
 
