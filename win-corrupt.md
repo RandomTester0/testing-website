@@ -19,7 +19,7 @@ This guide will help you fix corruption issues on your Windows PC, starting from
 2. Right-click **Command Prompt** and select **Run as Administrator**.
 3. In the Command Prompt window, type:
     ```bash
-     DISM /Online /Cleanup-Image /RestoreHealth
+     sfc /scannow
      ```
 4. Wait for the process to complete (this can take some time).
 5. If any issues are found and repaired, **restart your computer**.
@@ -31,7 +31,7 @@ This guide will help you fix corruption issues on your Windows PC, starting from
 1. Open **Command Prompt** as an Administrator (same as above).
 2. In the Command Prompt window, type:
 	```bash
-     sfc /scannow
+       DISM /Online /Cleanup-Image /RestoreHealth
      ```
 3. This command will attempt to fix any corruption related to the system image.
 4. Once completed, **restart your computer**, especially if the tool reports that repairs were made.
