@@ -22,7 +22,7 @@ This guide will help you fix corruption issues on your Windows PC, starting from
    sfc /scannow
      ```
 4. Wait for the process to complete (this can take some time).
-5. If any issues are found and repaired, **restart your computer**.
+5. If any issues are found and repaired, **restart your computer**. You should also run the command again, restart and repeat until no errors are found.
 
 ---
 
@@ -34,7 +34,7 @@ This guide will help you fix corruption issues on your Windows PC, starting from
    DISM /Online /Cleanup-Image /RestoreHealth
      ```
 3. This command will attempt to fix any corruption related to the system image.
-4. Once completed, **restart your computer**, especially if the tool reports that repairs were made.
+4. Once completed, **restart your computer**, if the tool reports that repairs were made. As with the last command, you should repeat this to ensure all checked files were fixed.
 
 ---
 
