@@ -19,4 +19,4 @@ Here’s a preview of what I plan to include:
 - 🔗 Useful resources and programs
 - ❓ And perhaps more in the future
 
-For extra help, feel free to join the [Discord server](https://discord.gg/h5x88kTJ).
+For extra help, feel free to join the [Discord server](https://discord.gg/NRCf8Yz7).
