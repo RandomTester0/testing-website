@@ -18,5 +18,3 @@ Here’s a preview of what I plan to include:
 - ✅ Curated guides on how to tackle various computer problems 
 - 🔗 Useful resources and programs
 - ❓ And perhaps more in the future
-
-For extra help, feel free to join the [Discord server](https://discord.gg/NRCf8Yz7).
