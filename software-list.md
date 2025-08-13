@@ -8,8 +8,6 @@ nav_order: 3
 
 A collection of programs I usually install when fresh installing an OS. Feel free to suggest any worthy programmes!
 
-> Where there are two or more programs that are for the same purpose, a tick (✔️) will signify my preference. However, all options here are great!
-
 ---
 
 ## Table of Contents
@@ -28,7 +26,7 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 
 ## 🗜️ Compression Tools
 
-- [✔️ 7-Zip](https://www.7-zip.org/) – Open-source compression utility.
+- [7-Zip](https://www.7-zip.org/) – Open-source compression utility.
 - [NanaZip](https://github.com/M2Team/NanaZip) – A modern fork of 7-Zip with closer feel of Windows Explorer.
 
 ---
@@ -44,11 +42,12 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 
 ## 🌐 Internet
 
-- [✔️ LibreWolf](https://librewolf.net/) – Firefox fork focused on privacy.
+- [LibreWolf](https://librewolf.net/) – Firefox fork focused on privacy.
 - [Firefox](https://www.mozilla.org/firefox/) – Open-source web browser.
+- [Floorp](https://floorp.app/en-US/download) - A fork of firefox focused on customisability.
 - [uBlock Origin](https://github.com/gorhill/uBlock#installation) – Efficient ad and content blocker. *(For base Firefox, consider adding [this filter list](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) to enhance link shortener detection.)*
 - [BetterBird](https://betterbird.eu/) – A privacy-focused, enhanced fork of Thunderbird email client.
-- [✔️ JDownloader](https://jdownloader.org/jdownloader2) – Open-source download manager.
+- [JDownloader](https://jdownloader.org/jdownloader2) – Open-source download manager.
 - [AB Download Manager](https://abdownloadmanager.com/) - Another download manager, this one has browser integration.
 
 ---
@@ -56,14 +55,14 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 ## 📡 Communication
 
 - [Matrix](https://matrix.org/) – Decentralized, secure messaging.
-- [Signal](https://signal.org/) – Encrypted messaging app alternative to WhatsApp.
+- [Signal](https://signal.org/) – Encrypted messaging app (alternative to WhatsApp, Messenger etc).
 
 ---
 
 
 ## 🎥 Media & Multimedia
 
-- [✔️ VLC Media Player](https://www.videolan.org/vlc/) – A versatile media player that plays almost every type of media file.
+- [VLC Media Player](https://www.videolan.org/vlc/) – A versatile media player that plays almost every type of media file.
 - [MPC-HC](https://github.com/clsid2/mpc-hc/) – A more lightweight, open-source media player for Windows.
 - [FlameShot](https://flameshot.org/) – A powerful, customizable screenshot tool.
 - [Tenacity](https://tenacityaudio.org/) – A free, open-source, and community-driven fork of Audacity for audio editing.
@@ -90,7 +89,7 @@ A collection of programs I usually install when fresh installing an OS. Feel fre
 ## 🔐 Privacy & Alternatives
 
 - [Proton Suite](https://proton.me/) – Alternatives to Google: Mail, VPN, Password Manager, Cloud Storage, and more.
-- [✔️ DuckDuckGo](https://duckduckgo.com/) – Privacy-first search engine.
+- [DuckDuckGo](https://duckduckgo.com/) – Privacy-first search engine.
 - [SearX](https://searx.space/) – Meta search engine that doesn’t track you.
 
 ---
