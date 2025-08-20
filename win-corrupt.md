@@ -29,12 +29,19 @@ This guide will help you fix corruption issues on your Windows PC, starting from
 ## Step 2: Run the DISM Command for Advanced Repair
 
 1. Open **Command Prompt** as an Administrator (same as above).
-2. In the Command Prompt window, type:
-	```bash
+2. First, check if corruption exists before attempting a repair by typing:
+    ```bash
+   DISM /Online /Cleanup-Image /CheckHealth
+     ```
+   - This command tells you if the system image has been flagged as corrupted and whether it is repairable.  
+   - If it reports that the image is healthy, you do not need to run further DISM commands.  
+   - If corruption is detected, continue with the next step.
+3. To attempt a repair, type:
+    ```bash
    DISM /Online /Cleanup-Image /RestoreHealth
      ```
-3. This command will attempt to fix any corruption related to the system image.
-4. Once completed, **restart your computer**, if the tool reports that repairs were made. As with the last command, you should repeat this to ensure all checked files were fixed.
+4. This command will attempt to fix any corruption related to the system image.
+5. Once completed, **restart your computer** if the tool reports that repairs were made. As with the last command, you should repeat this to ensure all checked files were fixed.
 
 ---
 
