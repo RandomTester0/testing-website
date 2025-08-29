@@ -76,6 +76,7 @@ Click <strong>Download Now</strong> under "Create Windows 11 Installation Media.
 
 ## Step 2: Boot from the USB Drive
 
+> HOLD ON! Before you do this part, ensure all SSDs apart from the one you're installing Windows to is *removed* from the PC. Failure to do so may lead to Windows placing the Boot Manager on a different drive than the rest of the OS files, which can be a hassle later.
 1. **Plug the USB into Your Computer**  
    Insert the USB drive with the Windows 11 installer into the target computer.
 
@@ -121,7 +122,7 @@ Click <strong>Download Now</strong> under "Create Windows 11 Installation Media.
 > ⚠️ **Important Alert:**  
 > If, **immediately** after booting the Windows 11 installer for version **24H2** (currently newest), a screen appears where your SSD or storage drives do not show up, this is a known Microsoft error specific to 24H2.  
 >  
-> To fix this, you will need to download and use the older Windows 11 23H2 installation media, which does not have this problem and should detect your drives correctly. (It should be possible to get around this by placing the 24H2 install.wim into the 23H2 installer. This would skip installing an older version of Windows only to upgrade.)
+> To fix this, you will need to download and use the older Windows 11 23H2 installation media, which does not have this problem and should detect your drives correctly. (It should be possible to get around this by placing the 24H2 install.wim into the 23H2 installer. This would skip installing an older version of Windows only to upgrade. I'll plan on uploading a custom patched file here for easier access later.)
 >
 > This alert only applies if the lack of detected drives happens right away when the installer starts. If the drives fail to show up later in the process (for example, after clicking "Next" a few times), this is likely a different issue, and you should try following the following instructions.
 
