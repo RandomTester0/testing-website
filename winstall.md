@@ -8,12 +8,14 @@ nav_order: 1
 
 # Windows 11 Installation Guide
 
-This guide walks you through the process of (re)installing Windows 11 on your computer. Follow the steps below for a clean installation.
+> This guide walks you through the process of (re)installing Windows 11 on your computer. It assumes you are running an up-to-date version of **Windows 11** (This guide is not for alternative Operating Systems).
+>   
+> ALL DATA WILL BE WIPED FROM THE TARGET PC: MAKE SURE YOU HAVE BACKED UP ALL IMPORTANT FILES
 
 ### For this guide, you will need
 
-- A USB flash drive with at least **8 GB** of storage (this will be used to create the Windows installation media).  
-- A working Windows computer to download Windows 11 and create the installation USB. This can be the one you will be reinstalling windows on, or another if an OS hasn't been installed on that one yet or is not working correctly (ALL DATA WILL BE WIPED).  
+- A USB flash drive with at least **8 GB** of storage (Preferably 16GB+),this will be used to create the Windows installation media.  
+- A working computer to install Windows and create the installation USB. This can be the one you will be reinstalling windows on, or another if an OS hasn't been installed on that one yet or is not working correctly.  
 - An internet connection (for downloading Windows and drivers).  
 - Your PC where you want to install Windows 11.  
 
@@ -33,7 +35,7 @@ This guide walks you through the process of (re)installing Windows 11 on your co
 
 ## Step 1: Download and Create a Windows Installation USB Drive
 
-1. **Download Windows 11**  
+**Download Windows 11**  
    Download the Media Creation Tool from Microsoft. Even if you did this in the past, you should redo it so less time is taken up installing updates later.
 
 <table>
@@ -54,29 +56,32 @@ Click <strong>Download Now</strong> under "Create Windows 11 Installation Media.
 </table>
 
 
-
-2. **Prepare a USB Drive**  
+**Prepare a USB Drive**  
    Insert a USB drive (minimum 8GB in size) into your computer. Make sure the USB drive has no important data, as it will be wiped during this process.
 
-3. **Run the Media Creation Tool**  
+**Run the Media Creation Tool**  
    Once the tool is downloaded, run it. Accept the terms and conditions, and choose the option to create installation media for another PC.
 
-4. **Select Language, Edition, and Architecture**  
+**Select Language, Edition, and Architecture**  
    Choose your preferred language, Windows edition, and architecture (64-bit is the most common). If you're unsure, leave the default settings selected.
 
-5. **Select USB Flash Drive**  
+**Select USB Flash Drive**  
    Choose "USB flash drive" when prompted. The tool will automatically detect available USB drives. Select your USB drive (make sure it's the right one!) and click **Next**.
 
-6. **Wait for the Creation Process to Finish**  
+**Wait for the Creation Process to Finish**  
    The Media Creation Tool will download Windows 11 and create a bootable USB drive. This may take some time, depending on your internet speed, though you can just do other stuff while it does its thing.
 
-   > 💡 **Hint:** While you're waiting for the Media Creatioon Tool to finish, it's a good idea to also copy your PC's network drivers onto the same drive. This can reduce hassle if your wifi doesn't work after installation. For more info, see [here](#extra-no-wifi).
+**Optional: Microsoft's tool won't work?**
+   If for whatever reason you can't get that to work, download [Rufus](https://rufus.ie/en/) and the Windows 11 image file ([here](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_en-us.iso) is the English version download, for other languages get them at the same website you got the Media Creation Tool). Simply use Rufus' interface to select the .iso you downloaded and flash it to your USB Drive.
+
+   > 💡 **Hint:** After you prepare the USB, it's a good idea to also copy your PC's network drivers onto the same drive. This can reduce hassle if your wifi doesn't work after installation. Jump [here](#extra-no-wifi) for that.
 
 ---
 
 ## Step 2: Boot from the USB Drive
 
-> HOLD ON! Before you do this part, ensure all internal drives apart from the one you're installing Windows to is *removed* from the PC. Failure to do so may lead to Windows placing the Boot Manager on a different drive than the rest of the OS files, which can be a hassle later (just trust me on this).
+> HOLD ON! Before you do this part, ensure all internal drives apart from the one you're installing Windows to is *removed* from the PC. Failure to do so may lead to Windows placing the Boot Manager on a different drive than the rest of the OS files, which can be a hassle later (just trust me on this, you WANT to do this step!).
+
 1. **Plug the USB into Your Computer**  
    Insert the USB drive with the Windows 11 installer into the computer you'll be installing to.
 
@@ -84,7 +89,7 @@ Click <strong>Download Now</strong> under "Create Windows 11 Installation Media.
    Power on or restart the computer. If you have Windows already, you can hold the shift key while clicking the restart button in your OS. From there, find the troubleshooting settings, and in advanced startup you should find an option to boot from your "UEFI USB" or similar.
 
 3. **Access the Boot Menu**  
-   If the computer doesn't automatically boot from the USB, you'll need to access the boot menu. This is usually done by pressing a key such as **F2**, **F12**, **ESC**, or **DEL** immediately after turning on the computer. The exact key may vary, so refer to your computer’s manual or look for a prompt on the screen during boot.
+   If the computer doesn't automatically boot from the USB, you'll need to access the boot menu. This is usually done by pressing a key such as **F2**, **F11**, **F12**, or **ESC** immediately after turning on the computer. The exact key may vary, so refer to your computer’s manual or look for a prompt on the screen during boot.
 
 4. **Select USB Device**  
    From the boot menu, select your USB drive as the boot device and press **Enter**.
@@ -111,13 +116,13 @@ Click <strong>Download Now</strong> under "Create Windows 11 Installation Media.
    - Look at the **Total Size** of each disk to identify the main storage drive (it will usually be the largest disk).
    - Be cautious not to select any smaller drives or external drives (if applicable).
    - If you're installing on a new system or reformatting, you’ll need to delete any existing partitions on the selected disk. You can do this by selecting the partition, clicking **Delete**, and confirming the deletion.
-   - Once the drive shows as **Unallocated Space**, select it and click **Next** to proceed with the installation.
+   - Once the drive shows as only **Unallocated Space**, select it and click **Next** to proceed with the installation.
 
-   > **Note:** Deleting partitions will erase all data on that drive, so double-check before proceeding.
+   > **Note:** Deleting partitions will confirm you want to erase all data on that drive, so double-check before proceeding.
 
 ---
 
-## [Optional] SSD Not Showing Up?
+## Optional: SSD Not Showing Up?
 
 There's a few reasons this could happen. This is a common workaround:
 
@@ -175,8 +180,8 @@ There's a few reasons this could happen. This is a common workaround:
 5. **Restore Your Files**  
    If you backed up your files, now is the time to restore them to your new Windows installation.
 
-6. **[Optional] Check out some programs!**
-   Looking for programs to install on your fresh copy of Windows. Check out my favourite programs [here](https://randomtester0.github.io/testing-website/software-list.html) here, and please, stay clear of 3rd Party Antiviruses such as McAfee, Norton, Avast etc.
+6. **Install your Programs!**
+    Pretty self-explanatory, although please, stay clear of 3rd Party Antiviruses such as McAfee, Norton, Avast etc. to avoid bloating your system from the get-go. Avoid debloating and optimisation scripts as well, as they can break stuff in Windows.
 ---
 
 By following these steps, you should have a clean installation of Windows 11 on your computer. If you run into any issues, feel free to ask for further assistance! 
