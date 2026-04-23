@@ -6,5 +6,13 @@ nav_order: 3
 
 # 🛠️ My Software & Tools Resource List
 
-The Software List is taking a break while I re-evaluate what programs are worth recommending. I'm taking a deeper look into what software can improve the general user experience, while not introducing unnecessary bloat into the system (duplicates functions already present in Windows, not worth the extra program installation etc. I estimate the list will be back sometime in November.
----
+The Software List is taking a break while I re-evaluate what programs are worth recommending. I feel like a "one list for everyone program" isn't exactly useful. People are going to have different needs in programs, after all.
+
+Will it come back eventually?
+
+
+
+
+
+
+Well, maybe. But don't count on it.
